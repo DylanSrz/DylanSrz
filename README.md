@@ -55,6 +55,7 @@
 | 🏆 **Quiniela Hunters** | World Cup 2026 group-stage prediction pool app for 9 players — Excel imports, live scoring engine via Postgres triggers, and a public standings dashboard. |
 | ✈️ **ScriptVuelos** | Python + GitHub Actions bot that monitors flight prices (BAQ↔BOG) via SerpAPI and sends automated email alerts when fares drop below a set threshold. |
 | 💇 **Dislaverde** | E-commerce and service management platform for a Colombian aesthetics/spa supply company, with electronic invoicing (DIAN) integration. |
+| 🧠 **EduLogic** | STEM learning web platform — courses, lessons, and quizzes with automatic grading and instant feedback. Built with FastAPI, PostgreSQL (Supabase), and a Vanilla JS SPA styled with Tailwind CSS. |
 
 ---
 

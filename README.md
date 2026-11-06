@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Dylan 👋</h1>
 
-<h3 align="center">Full Stack Developer focused on backend | NestJS, FastAPI, PostgreSQL, Next.js | Barranquilla, Colombia 🇨🇴</h3>
+<h3 align="center">Full Stack Developer focused on backend | NestJS, FastAPI, PostgreSQL, Next.js | Barranquilla, Colombia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA6F1&center=true&vCenter=true&width=600&lines=REST+API+Design+%26+Architecture;Third-Party+Integrations+%26+Automation;Node.js+%7C+Python+%7C+FastAPI;Next.js+%7C+TypeScript+%7C+Supabase" alt="Typing SVG" />

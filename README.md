@@ -62,7 +62,7 @@
 | 💇 **Dislaverde** | Product catalog, event registration and auditable raffles for a Colombian aesthetics and spa supply company. Next.js and Supabase with RLS. | [Live](https://www.dislaverde.com) |
 | 🍽️ **ZeroBug** | Team project: REST API for restaurant operations, with CI and e2e tests. I was Scrum Master and a developer. NestJS, TypeORM and PostgreSQL. | [Code](https://github.com/DylanSrz/ZeroBug) |
 | 🏆 **Quiniela Hunters** | World Cup 2026 prediction pool for 9 players, with Excel imports and scoring through Postgres triggers. Next.js and Supabase. | [Demo](https://quiniela-hazel-five.vercel.app) · [Code](https://github.com/DylanSrz/quiniela) |
-| 🤖 **GELDO** | Modular multi-server Discord bot with economy, casino, levels and tickets. Deployed to an Oracle Cloud VM with GitHub Actions and systemd. | [Website](https://geldo.vercel.app) |
+| 🤖 **GELDO** | Modular multi-server Discord bot with economy, casino, levels and tickets. Deployed to an Oracle Cloud VM with GitHub Actions and systemd. | [Website](https://geldo.vercel.app) · [Code](https://github.com/DylanSrz/geldo-bot) |
 | ✈️ **ScriptVuelos** | Python and GitHub Actions script that checked BAQ↔BOG flight prices through SerpAPI and sent a daily HTML email report. | [Code](https://github.com/DylanSrz/ScriptVuelos) |
 
 ---
